@@ -5,7 +5,7 @@
 ![Live Sync](https://img.shields.io/badge/Real--Time-Firebase%20Realtime%20DB-9d00ff?style=for-the-badge&logo=firebase)  
 ![PWA Ready](https://img.shields.io/badge/PWA-Ready%20for%20Install-00f6ff?style=for-the-badge&logo=pwa)  
 ![Single File](https://img.shields.io/badge/Code-Single%20HTML%20Mega%20File-ff00ff?style=for-the-badge&logo=html5)  
-![Admin Access](https://img.shields.io/badge/Admin-Password%3A%20%23TechBrian%4001-9d00ff?style=for-the-badge&logo=lock)  
+![Admin Access](https://img.shields.io/badge/Admin-Password%3A%20%23#*#*#*#*#*#*#%4001-9d00ff?style=for-the-badge&logo=lock)  
 
 ---
 
